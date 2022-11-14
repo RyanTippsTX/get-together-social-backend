@@ -8,7 +8,7 @@ This back-end uses Nest.js to expose a RESTful API for consumption by the front-
 
 The _**front-end**_ repo is [here](https://github.com/RyanTippsTX/get-together-social).
 
-## Technologies
+## Back-end Technologies
 
 - Nest.js
 - Typescript
